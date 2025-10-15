@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Manas </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F729&center=true&vCenter=true&width=500&lines=Python+Learner;AI+%26+Tech+Explorer;Future+Ready+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+%26+Tech+Explorer;Check+my+Data+Structures+Repo+📘;Check+my+Leetcode+Repo;Learn+Python+With+Me+Repo+🎓" alt="Typing SVG" />
 
 ---
 
@@ -30,17 +30,10 @@
 
 ---
 
-### 🔗 Quick Links & Badges
-<p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/BishtManas?tab=followers"><img src="https://img.shields.io/badge/Followers-View?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
 ### 💬 Connect With Me:
 <p align="center">
   <a href="https://github.com/BishtManas"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/BishtManas?tab=followers"><img src="https://img.shields.io/badge/Followers-View?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
