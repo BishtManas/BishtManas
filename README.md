@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I'm Manas </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+%26+Tech+Explorer;Check+my+Data+Structures+Repo+📘;Check+my+Leetcode+Repo;Learn+Python+With+Me+Repo+🎓" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Python+Learner;AI+%26+Tech+Explorer;Check+My+Data+Structures+Repo;Check+My+Leetcode+Repo;Learn+Python+With+Me+Repo" alt="Typing SVG">
+</p>
 
 ---
 
