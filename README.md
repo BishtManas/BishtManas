@@ -1,9 +1,7 @@
 <h1 align="center">Hey there!</h1>
-
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ADD8E6&center=true&vCenter=true&width=600&lines=Manas+Here;AI+%26+Tech+Explorer;Check+My+Data+Structures+Repo;Check+My+Leetcode+Repo;check+my+Learn+Python+With+Me+Repo" alt="Typing SVG">
 </p> -->
----
 
 ### About Me:
 - Currently learning **Python**, **AI/ML**, and **Data Structures**
