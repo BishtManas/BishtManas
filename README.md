@@ -21,11 +21,10 @@
 
 ---
 
-### GitHub Stats:
-<p align="center">
+<!-- <p align="center"> git status ###
   <img src="https://github-readme-stats.vercel.app/api?username=BishtManas&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishtManas&layout=compact&theme=tokyonight" height="165">
-</p>
+</p> -->
 
 ---
 
